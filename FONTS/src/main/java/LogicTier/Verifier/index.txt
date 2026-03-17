@@ -1,0 +1,2 @@
+Este directorio contiene:
+    - Verifier.java: codigo de la clase Verifier

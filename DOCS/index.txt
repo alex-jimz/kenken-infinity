@@ -1,0 +1,7 @@
+El directorio FONTS contiene:
+-CasosDeUso.pdf: Fichero con el diagram de casos de uso de la aplicacion.
+-ClassDiagramPersistenceLayer.pdf: Documento con el diagrama de clases de nuestra implementacion de la capa de persistencia.
+-ClassDiagramLogicLayer.pdf: Documento con el diagrama de clases de nuestra implementacion de la capa de dominio.
+-ClassDiagramPresentationLayer.pdf: Documento con el diagrama de clases de nuestra implementacion de la capa de presentacion.
+-PROP_Documentacion.pdf: Documento que contiene la documentacion del proyecto: justificacion de algoritmos, descripcion de clases y metodos, reparto de clases etc.
+-ManualUsuario.pdf: Manual de Usuario de la aplicacion.

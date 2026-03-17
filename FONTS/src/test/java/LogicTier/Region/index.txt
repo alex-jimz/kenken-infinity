@@ -1,0 +1,2 @@
+La carpeta Region contiene:
+* RegionTest.java: tests unitarios de la clase Region

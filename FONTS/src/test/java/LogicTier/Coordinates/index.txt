@@ -1,0 +1,2 @@
+La carpeta Coordinates contiene:
+* CoordinatesTest.java: tests unitarios de la clase Coordinates

@@ -1,0 +1,17 @@
+For a NxN kenken with R regions, each of them with e elements, the standard format is as follows:
+     N R
+     oper1 result1 e1 x11 y11 [cont11] x12 y12 [cont12] ... x1e1 y1e1 [cont1e1]
+     ...
+     operR resultR eR xR1 yR1 [contR1] xR2 yR2 [contR2] ... xReR yReR [contReR]
+That is, for each region, separated by blank spaces, its operation, its result, its number of elements and
+a list of the coordinates of each cell of the region (and, if it is there, its content between brackets).
+All elements must be integers between 1 and N, except:
+   * the "result"s, which can be any integer
+   * the "oper"s, which must be an integer between 0 and 6:
+        - 0 (nothing)
+        - 1 (+)
+        - 2 (-)
+        - 3 (x)
+        - 4 (\u00F7)
+        - 5 (avg)
+        - 6 (max)

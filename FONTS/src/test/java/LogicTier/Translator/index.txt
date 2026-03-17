@@ -1,0 +1,2 @@
+La carpeta Translator contiene:
+* TranslatorTest.java: tests unitarios de la clase Translator

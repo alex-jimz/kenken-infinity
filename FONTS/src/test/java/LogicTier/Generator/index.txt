@@ -1,0 +1,2 @@
+La carpeta Generator contiene:
+ - GeneratorTest.java: tests unitarios de la clase Generator

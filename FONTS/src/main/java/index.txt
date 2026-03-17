@@ -1,0 +1,4 @@
+Este directorio contiene:
+    - Directorio DataTier: contiene los codigos relacionados con la capa de persistencia
+    - Directorio LogicTier: contiene los codigos relacionados con la capa de persistencia 
+    - Directorio PresentationTier: contiene los codigos relacionados con la capa de presentacion (sin implementar)

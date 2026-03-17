@@ -1,0 +1,87 @@
+{
+    "root": {
+        "password": "root",
+        "intStats": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "stringStats": [
+            "PT0H0M0S",
+            "PT0H0M0S"
+        ]
+    },
+    "Alex": {
+        "password": "Alex123456789*",
+        "intStats": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "stringStats": [
+            "PT0H0M0S",
+            "PT0H0M0S"
+        ]
+    },
+    "Federica": {
+        "password": "Federica123456789*",
+        "intStats": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "stringStats": [
+            "PT0H0M0S",
+            "PT0H0M0S"
+        ]
+    },
+    "Carlos": {
+        "password": "Carlos123456789*",
+        "intStats": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "stringStats": [
+            "PT0H0M0S",
+            "PT0H0M0S"
+        ]
+    },
+    "Jan": {
+        "password": "Jan123456789*",
+        "intStats": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "stringStats": [
+            "PT0H0M0S",
+            "PT0H0M0S"
+        ]
+    }
+}

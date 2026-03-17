@@ -1,0 +1,2 @@
+Este directorio contiene:
+    - TestRunner.java: clase auxiliar para crear los ejecutables de los tests

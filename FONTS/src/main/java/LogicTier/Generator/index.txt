@@ -1,0 +1,2 @@
+Este directorio contiene:
+    -Generator.java: contiene el codigo de la clase Generator.

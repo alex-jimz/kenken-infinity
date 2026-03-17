@@ -1,0 +1,9 @@
+Este directorio contiene:
+    - Addition.java: codigo de la clase Adition.java subclase de GOperation
+    - ArithmeticMean.java: codigo de la clase ArithmeticMean subclase de GOperation
+    - Division.java: codigo de la clase Division subclase de GOperation
+    - GOperation.java: codigo de la clase GOperation que es subclase de Operation (es la implementacion de Operation con nuestra libreria del solver)-
+    - Identity.java: codigo de la clase Identity subclase de GOperation
+    - Max.java: codigo de la clase Max subclase de GOperation
+    - Product.java: codigo de la clase Product subclase de GOperation
+    - Subtraction.java: codigo de la clase Subtraction subclase de GOperation

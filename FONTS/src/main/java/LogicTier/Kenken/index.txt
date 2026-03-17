@@ -1,0 +1,2 @@
+Este directorio contiene:
+    - Kenken.java: codigo de la clase Kenken

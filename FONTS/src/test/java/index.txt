@@ -1,0 +1,2 @@
+La carpeta test/java contiene:
+* LogicTier: directorio que contiene todos los test unitarios de las clases de la capa de dominio

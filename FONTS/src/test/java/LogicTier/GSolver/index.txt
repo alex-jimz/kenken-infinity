@@ -1,0 +1,2 @@
+La carpeta GSolver contiene:
+*GSolverTest.java: tests unitarios de la clase GSolver

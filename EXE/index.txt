@@ -1,0 +1,16 @@
+La carpeta EXE contiene:
+* Directorio Data: contiene la persistencia de la aplicacion
+* Directorio JuegosDePrueba: contiene los directorios de los juegos de prueba
+* Directorio backup: contiene la backup de la persistencia
+* Fichero createShortcut.bat: al executar el fichero se genera un acceso directo a la aplicacion en el directorio actual
+* juegoDePrueba.bat: permite ejecutar los juegos de pruebas
+* kenkenInfinity.bat: permite ejecutar la aplicación desde Windows
+* kenkenInfinity.sh: permite ejecutar la aplicación desde Mac y Linux
+* kenkenInfinity.vbs: fichero auxiliar para el correcto funcionamiento de createShortcut.bat
+* saveBackup.bat: ejecutable que guarda el estado actual del sistema en la carpeta Backup (para Windows y Linux)
+* saveBackup.sh: ejecutable que guarda el estado actual del sistema en la carpeta Backup (para macOS)
+* loadBackup.bat: ejecutable que sube el estado actual de la carpeta Backup al sistema (para Windows y Linux)
+* loadBackup.sh: ejecutable que sube el estado actual de la carpeta Backup al sistema (para macOS)
+* unitTest.bat: permite ejecutar los test unitarios desde Windows
+* unitTest.sh: permite ejecutar los test unitarios desde Mac y Linux
+* Fichero .gitignore

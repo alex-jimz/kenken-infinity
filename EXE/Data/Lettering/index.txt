@@ -1,0 +1,3 @@
+*Fichero aquire.otf: tipografia de la aplicación
+*Fichero cartesian.otf: tipografia de la aplicación
+*Fichero timeBurner.ttf: tipografia de la aplicación

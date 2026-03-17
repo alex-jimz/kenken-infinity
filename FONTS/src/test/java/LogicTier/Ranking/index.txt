@@ -1,0 +1,2 @@
+La carpeta Ranking contiene:
+* RankingTest.java: tests unitarios de la clase Ranking

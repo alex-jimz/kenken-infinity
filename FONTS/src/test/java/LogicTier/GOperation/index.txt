@@ -1,0 +1,2 @@
+La carpeta GOperation contiene:
+* GOperationTest.java: tests unitarios de la clase GOperation

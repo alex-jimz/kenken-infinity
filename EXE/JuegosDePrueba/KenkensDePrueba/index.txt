@@ -1,0 +1,21 @@
+* Fichero Kenken3x3_1.txt: contiene un Kenken en formato estandar que se podrá importar correctamente
+* Fichero Kenken3x3_2.txt: contiene un Kenken en formato estandar que se podrá importar correctamente
+* Fichero Kenken5x5.txt: contiene un Kenken en formato estandar que se podrá importar correctamente
+* Fichero Kenken6x6.txt: contiene un Kenken en formato estandar que se podrá importar correctamente
+* Fichero Kenken9x9_1.txt: contiene un Kenken en formato estandar que se podrá importar correctamente
+* Fichero Kenken9x9_2.txt: contiene un Kenken en formato estandar que se podrá importar correctamente
+* Fichero KenkenWrong3x3_1DifferentFormat_1.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrong3x3_1DifferentFormat_2.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongCoordinateOutOfBound.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongCoordinateRepeated.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongHeader1.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongHeader2.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongHeader3.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongHintFormat.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongMissplacedHint.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongMultipleSolution.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongNoSolution.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongNotNumerical.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongNumberOfN.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongNumberOfR.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente
+* Fichero KenkenWrongOp.txt: contiene un "Kenken" en formato estandar que no se podrá importar correctamente

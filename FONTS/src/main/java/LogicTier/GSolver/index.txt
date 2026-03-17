@@ -1,0 +1,2 @@
+Este directorio contiene:
+    - GSolver.java: codigo de la clase GSolver (implementacion del Solver con nuestra libreria de eleccion)

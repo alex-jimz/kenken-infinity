@@ -1,0 +1,2 @@
+Este directorio contiene:
+    -Game.java: codigo de la clase Game

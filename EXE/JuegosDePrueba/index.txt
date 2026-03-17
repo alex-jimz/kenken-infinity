@@ -1,0 +1,16 @@
+La carpeta JuegosDePrueba:
+* Directorio 49UsersRanking: juego de prueba para testear el ranking
+* Directorio 50UsersRanking: juego de prueba para testear el ranking
+* Directorio 51UsersRanking: juego de prueba para testear el ranking
+* Directorio ContinueGame: juego de prueba para testear la partida
+* Directorio Default: juego de prueba para testear la aplicación
+* Directorio Empty: juego de prueba para testear la aplicación
+* Directorio EndGameNoHints: juego de prueba para testear la partida
+* Directorio EndGameNoHints: juego de prueba para testear la partida
+* Directorio EndGameUsingHints: juego de prueba para testear la partida
+* Directorio EndGameWithDifferentTimes: juego de prueba para testear la partida
+* Directorio Just5Users: juego de prueba para testear el registro
+* Directorio KenkensDePrueba: contiene ficheros para testear la importación de kenkens
+* Directorio RankingSorted: juego de prueba para testear el ranking
+* Directorio ResetGame: juego de prueba para testear la partida
+* Fichero PasswordConditions.txt: contiene contraseñas para testear el registro

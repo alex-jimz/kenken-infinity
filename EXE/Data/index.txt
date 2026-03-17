@@ -1,0 +1,11 @@
+La carpeta Data contiene:
+* Directorio Icons: contiene los iconos e imagenes de la aplicacion
+* Directorio Lettering: contiene las tipografias de la aplicacion
+* Directorio Music: contiene la musica de la aplicacion
+* Fichero FormatExplanation.txt: contiene el formato estandar de los kenkens
+* Fichero Game.json: persistencia de las partidas de la aplicacion
+* Fichero Kenken.json: persistencia de los Kenkens de la aplicacion
+* Fichero KenkenAux.txt: fichero auxiliar de la aplicacion 
+* Fichero Ranking.json: persistencia del Ranking de la aplicacion
+* Fichero Rules.txt: reglas de juego
+* Fichero User.json: persistencia de los usuarios de la aplicacion

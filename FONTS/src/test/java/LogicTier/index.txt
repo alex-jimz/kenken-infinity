@@ -1,0 +1,13 @@
+La carpeta LogicTier contiene:
+* Coordinates: carpeta que contiene los test unitarios de la clase Coordinates
+* GOperation: carpeta que contiene los test unitarios de la clase GOperation
+* GSolver: carpeta que contiene los test unitarios de la clase GSolver
+* Game: carpeta que contiene los test unitarios de la clase Game
+* Kenken: carpeta que contiene los test unitarios de la clase Kenken
+* Operation: carpeta que contiene los test unitarios de la clase Operation
+* Ranking: carpeta que contiene los test unitarios de la clase Ranking
+* Region: carpeta que contiene los test unitarios de la clase Region
+* Statistics: carpeta que contiene los test unitarios de la clase Statistics
+* Translator: carpeta que contiene los test unitarios de la clase Translator
+* User: carpeta que contiene los test unitarios de la clase User
+* Verifier: carpeta que contiene los test unitarios de la clase Verifier

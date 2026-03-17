@@ -1,0 +1,3 @@
+Este directorio contiene:
+-gradle-wrapper.properties: fichero de configuracion del Wrapper
+-gradle-wrapper.jar: contiene la lógica necesaria para descargar y ejecutar una version especifica de gradle

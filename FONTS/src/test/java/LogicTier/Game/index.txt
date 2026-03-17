@@ -1,0 +1,2 @@
+La carpeta Game contiene:
+* GameTest.java: tests unitarios de la clase Game

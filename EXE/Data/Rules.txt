@@ -1,0 +1,18 @@
+The numbers you use in a KenKen puzzle depends on the size of the puzzle grid you choose.
+A 4 x 4 grid (4 squares across, 4 squares down) means you use the numbers 1, 2, 3 and 4. 
+In a 6 x 6 grid, use the numbers 1 to 6. An 8x8 grid requires you use the numbers 1 to 8, 
+and so on.
+
+The numbers in each heavily outlined set of squares, called cages, must combine (in any 
+order) to produce the target number located in the top corner of that cage using the 
+mathematic operation indicated (sum, substraction, product, division, arithmetic mean, maximum).
+
+The goal is to fill in all the squares so that each number is used in each row and column and 
+no numbers are repeated in any row or column.
+
+Here's how you play:
+
+1. Do not repeat a number in any row or column.
+2. Cages with just one square should be filled in with the target number in the top corner.
+3. A number can be repeated within a cage as long as it is not in the same row or column.
+ 

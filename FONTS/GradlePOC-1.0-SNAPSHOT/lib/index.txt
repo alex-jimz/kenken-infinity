@@ -1,0 +1,3 @@
+Este directorio contiene:
+-GradlePOC-1.0-SNAPSHOT.jar: archivo .jar generado por la construccion de un proyecto de GradlePOC
+-gson-2.8.9.jar: archivo .jar que contiene la implementacion de GSON (libreria de Google que permite serializar y deserializar binarios de Java desde formato JSON)

@@ -1,0 +1,17 @@
+El directorio FONTS contiene:
+- Directorio GradlePOC-1.0-SNAPSHOT/lib: directorio donde se almacenan las librerias externas para el uso de gradle
+- Directorio gradle/wrapper: contiene todos los ficheros necesario para la funcionalidad de Wrapper de gralde (es un script y un archivo binario que permite a un proyecto utilizar una version especifica de Gradle sin necesidad de tener Gradle instalado en su sistema.)
+- Directorio lib: contiene los ficheros .jar de las librerias
+- Directorio src: contiene los codigos de todas las clases implementadas 
+- .gitignore
+- build.gradle: fichero de build
+- compile.bat: script que permite compilar la aplicacion en Windows y Linux
+- compile.bat: script que permite compilar la aplicacion en macOS
+- gradlew: script que permite ejecutar Gradle sin necesidad de tenerlo instalado de forma global en el sistema.
+- gradlew.bat: script que permite ejecutar Gradle sin necesidad de tenerlo instalado de forma global en el sistema para Windows.
+- settings.gradle: fichero de configuracion del gradle
+
+Recordatorio: es posible que en macOS, para obtener permisos, sea necesario ejecutar los siguientes comandos
+    chmod +x compile.sh 
+    chmod +x gradlew
+

@@ -1,0 +1,4 @@
+Este directorio contiene:
+    - CtrlData.java: controlador de la capa de persistencia
+    - Reader.java: clase que contiene los metodos para leer de persistencia
+    - Writer.java: clase que contiene los metodos para escrivir en persistencia

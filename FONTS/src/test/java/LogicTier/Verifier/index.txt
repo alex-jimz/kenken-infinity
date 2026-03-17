@@ -1,0 +1,2 @@
+La carpeta Verifier contiene:
+* VerifierTest.java: tests unitarios de la clase Verifier

@@ -1,0 +1,3 @@
+Este directorio contiene:
+    - main/java: directorio con el codigo de las clases
+    - test/java: driectorio con el codigo de las clases de testeo

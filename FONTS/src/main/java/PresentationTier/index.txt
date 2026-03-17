@@ -1,0 +1,8 @@
+Este directorio contiene:
+    - CtrlPresentation.java: codigo del controlador de la capa de presentacion.
+    - AppMain.java: codigo que sirve como punto de entrada a la aplicacion.
+    - GameView.java: codigo de la vista referente al interfaz de resolucion de kenkens.
+    - GeneratorView.java: codigo de la vista referente a la interfaz de creacion personalizada de kenkens.
+    - KenkenDisplayPanel.java: codigo de la clase que implementa una extension de la clase JPanel para poder previsualizar kenken.
+    - MainView.java: codigo de la vista referente al menu principal i a la navegabilidad de la aplicacion.
+    - MusicPlayer.java: codigo clase que gestiona de la musica que se reproduce en la aplicacion

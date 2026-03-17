@@ -1,0 +1,25 @@
+Este directorio contiene:
+    - Coordinates: directorio con el codigo de la clase Coordinates.
+    - CtrlLogic: directorio con el codigo de la clase CtrlLogic
+    - GOperation: directorio con el codigo de la clase GOperation
+    - GSolver: directorio con el codigo de la clase GSolver.
+    - Game: directorio con el codigo de la clase Game.
+    - Generator: directorio con el codigo de la clase Generator.
+    - Kenken: directorio con el codigo de la clase Kenken.
+    - Operation: directorio con el codigo de la clase Operation.
+    - Ranking: directorio con el codigo de la clase Ranking.
+    - Region: directorio con el codigo de la clase Region.
+    - Solver: directorio con el codigo de la clase Solver.
+    - Statistics: directorio con el codigo de la clase Statistics
+    - TestRunner: directorio con el codigo de la clase TestRunner
+    - Translator: directorio con el codigo de la clase Translator
+    - User: directorio con el codigo de la clase User
+    - Verifier: directorio con el codigo de la clase Verifier
+    - CustomException.java: codigo de la clase CustomException
+    - GameAlreadyExists.java: codigo de la clase GameAlreadyExists clase hija de CustomException
+    - IllegalCellSelection.java: codigo de la clase IllegalCellSelection clase hija de CustomException
+    - IllegalGameAction.java: codigo de la clase IllegalGameAction clase hija de CustomException
+    - IllegalMatrixPosition.java: codigo de la clase IllegalMatrixPosition clase hija de CustomException
+    - IllegalScore.java: codigo de la clase IllegalScore clase hija de CustomException
+    - KenkenAlreadyInPersistence.java: codigo de la clase KenkenAlreadyInPersistence clase hija de CustomException
+    - KenkenNotGenerated.java: codigo de la clase KenkenNotGenerated clase hija de CustomException

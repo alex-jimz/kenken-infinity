@@ -1,0 +1,2 @@
+La carpeta User contiene:
+* UserTest.java: tests unitarios de la clase User

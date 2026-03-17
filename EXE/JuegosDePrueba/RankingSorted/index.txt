@@ -1,0 +1,4 @@
+Fichero Game.json: contiene la persistencia de las partidas de la aplicación
+Fichero Kenken.json: contiene la persistencia de los kenkens de la aplicación
+Fichero Ranking.json: contiene la persistencia del ranking de la aplicación
+Fichero user.json: contiene la persistencia de los usuarios de la aplicación

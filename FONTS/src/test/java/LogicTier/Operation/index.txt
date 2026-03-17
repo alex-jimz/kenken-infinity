@@ -1,0 +1,2 @@
+La carpeta Operation contiene:
+* OperationTest.java: tests unitarios de la clase Operation

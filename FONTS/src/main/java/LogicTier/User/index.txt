@@ -1,0 +1,2 @@
+Este directorio contiene:
+    - User.java: codigo de la clase User

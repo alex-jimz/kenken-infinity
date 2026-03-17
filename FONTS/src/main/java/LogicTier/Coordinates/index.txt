@@ -1,0 +1,2 @@
+Este directorio contiene:
+    - Coordinates.java: codigo de la clase Coordinates
